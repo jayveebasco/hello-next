@@ -4102,7 +4102,7 @@ function connect(options) {
       error.name = err.name;
       error.stack = err.stack; // __NEXT_DIST_DIR is provided by webpack
 
-      (0, _sourceMapSupport.rewriteStacktrace)(error, "/home/jayveebasco/Documents/Projects/next/.next");
+      (0, _sourceMapSupport.rewriteStacktrace)(error, "C:\\Users\\Jayvee Basco\\OneDrive\\Documents\\Projects\\Next\\hello-next\\.next");
       return error;
     }
 

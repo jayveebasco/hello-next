@@ -88,7 +88,7 @@ module.exports =
 /******/
 /******/
 /******/ 	// Load entry module and return exports
-/******/ 	return __webpack_require__(__webpack_require__.s = 5);
+/******/ 	return __webpack_require__(__webpack_require__.s = 3);
 /******/ })
 /************************************************************************/
 /******/ ({
@@ -2033,7 +2033,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
 /* harmony import */ var next_link__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! next/link */ "./node_modules/next/link.js");
 /* harmony import */ var next_link__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(next_link__WEBPACK_IMPORTED_MODULE_1__);
-var _jsxFileName = "/home/jayveebasco/Documents/Projects/next/src/components/Header.js";
+var _jsxFileName = "C:\\Users\\Jayvee Basco\\OneDrive\\Documents\\Projects\\Next\\hello-next\\src\\components\\Header.js";
 
 var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
 
@@ -2092,7 +2092,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react */ "react");
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
 /* harmony import */ var _components_Header__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ../components/Header */ "./src/components/Header.js");
-var _jsxFileName = "/home/jayveebasco/Documents/Projects/next/src/components/Layout.js";
+var _jsxFileName = "C:\\Users\\Jayvee Basco\\OneDrive\\Documents\\Projects\\Next\\hello-next\\src\\components\\Layout.js";
 
 var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
 
@@ -2142,7 +2142,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
 /* harmony import */ var next_link__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! next/link */ "./node_modules/next/link.js");
 /* harmony import */ var next_link__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(next_link__WEBPACK_IMPORTED_MODULE_1__);
-var _jsxFileName = "/home/jayveebasco/Documents/Projects/next/src/components/PostLink.js";
+var _jsxFileName = "C:\\Users\\Jayvee Basco\\OneDrive\\Documents\\Projects\\Next\\hello-next\\src\\components\\PostLink.js";
 
 var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
 
@@ -2225,7 +2225,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _components_Layout__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ../components/Layout */ "./src/components/Layout.js");
 /* harmony import */ var _components_PostLink__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../components/PostLink */ "./src/components/PostLink.js");
 /* harmony import */ var _lib_postData__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ../lib/postData */ "./src/lib/postData.js");
-var _jsxFileName = "/home/jayveebasco/Documents/Projects/next/src/pages/index.js";
+var _jsxFileName = "C:\\Users\\Jayvee Basco\\OneDrive\\Documents\\Projects\\Next\\hello-next\\src\\pages\\index.js";
 
 var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
 
@@ -2259,14 +2259,14 @@ const Index = () => {
 
 /***/ }),
 
-/***/ 5:
+/***/ 3:
 /*!**********************************!*\
   !*** multi ./src/pages/index.js ***!
   \**********************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__(/*! /home/jayveebasco/Documents/Projects/next/src/pages/index.js */"./src/pages/index.js");
+module.exports = __webpack_require__(/*! C:\Users\Jayvee Basco\OneDrive\Documents\Projects\Next\hello-next\src\pages\index.js */"./src/pages/index.js");
 
 
 /***/ }),

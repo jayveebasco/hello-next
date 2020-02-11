@@ -1,6 +1,6 @@
 import { useRouter } from 'next/router'
 
-const post = () => {
+const Post = () => {
   const router = useRouter()
 
   return (
@@ -11,4 +11,4 @@ const post = () => {
   )
 }
 
-export default post;
+export default Post;

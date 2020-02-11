@@ -1,4 +1,4 @@
-(window["webpackJsonp"] = window["webpackJsonp"] || []).push([["static/development/pages/index.js"],{
+(window["webpackJsonp"] = window["webpackJsonp"] || []).push([["static\\development\\pages\\index.js"],{
 
 /***/ "./node_modules/@babel/runtime-corejs2/core-js/map.js":
 /*!************************************************************!*\
@@ -3835,10 +3835,10 @@ var assign=Object.assign.bind(Object);function g(){return assign;}Object.defineP
 
 /***/ }),
 
-/***/ "./node_modules/next/dist/build/webpack/loaders/next-client-pages-loader.js?page=%2F&absolutePagePath=%2Fhome%2Fjayveebasco%2FDocuments%2FProjects%2Fnext%2Fsrc%2Fpages%2Findex.js!./":
-/*!*****************************************************************************************************************************************************************************************!*\
-  !*** ./node_modules/next/dist/build/webpack/loaders/next-client-pages-loader.js?page=%2F&absolutePagePath=%2Fhome%2Fjayveebasco%2FDocuments%2FProjects%2Fnext%2Fsrc%2Fpages%2Findex.js ***!
-  \*****************************************************************************************************************************************************************************************/
+/***/ "./node_modules/next/dist/build/webpack/loaders/next-client-pages-loader.js?page=%2F&absolutePagePath=C%3A%5CUsers%5CJayvee%20Basco%5COneDrive%5CDocuments%5CProjects%5CNext%5Chello-next%5Csrc%5Cpages%5Cindex.js!./":
+/*!*************************************************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/next/dist/build/webpack/loaders/next-client-pages-loader.js?page=%2F&absolutePagePath=C%3A%5CUsers%5CJayvee%20Basco%5COneDrive%5CDocuments%5CProjects%5CNext%5Chello-next%5Csrc%5Cpages%5Cindex.js ***!
+  \*************************************************************************************************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -8266,7 +8266,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
 /* harmony import */ var next_link__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! next/link */ "./node_modules/next/link.js");
 /* harmony import */ var next_link__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(next_link__WEBPACK_IMPORTED_MODULE_1__);
-var _jsxFileName = "/home/jayveebasco/Documents/Projects/next/src/components/Header.js";
+var _jsxFileName = "C:\\Users\\Jayvee Basco\\OneDrive\\Documents\\Projects\\Next\\hello-next\\src\\components\\Header.js";
 
 var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
 
@@ -8325,7 +8325,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react */ "./node_modules/react/index.js");
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
 /* harmony import */ var _components_Header__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ../components/Header */ "./src/components/Header.js");
-var _jsxFileName = "/home/jayveebasco/Documents/Projects/next/src/components/Layout.js";
+var _jsxFileName = "C:\\Users\\Jayvee Basco\\OneDrive\\Documents\\Projects\\Next\\hello-next\\src\\components\\Layout.js";
 
 var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
 
@@ -8375,7 +8375,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
 /* harmony import */ var next_link__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! next/link */ "./node_modules/next/link.js");
 /* harmony import */ var next_link__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(next_link__WEBPACK_IMPORTED_MODULE_1__);
-var _jsxFileName = "/home/jayveebasco/Documents/Projects/next/src/components/PostLink.js";
+var _jsxFileName = "C:\\Users\\Jayvee Basco\\OneDrive\\Documents\\Projects\\Next\\hello-next\\src\\components\\PostLink.js";
 
 var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
 
@@ -8458,7 +8458,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _components_Layout__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ../components/Layout */ "./src/components/Layout.js");
 /* harmony import */ var _components_PostLink__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../components/PostLink */ "./src/components/PostLink.js");
 /* harmony import */ var _lib_postData__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ../lib/postData */ "./src/lib/postData.js");
-var _jsxFileName = "/home/jayveebasco/Documents/Projects/next/src/pages/index.js";
+var _jsxFileName = "C:\\Users\\Jayvee Basco\\OneDrive\\Documents\\Projects\\Next\\hello-next\\src\\pages\\index.js";
 
 var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
 
@@ -8492,14 +8492,14 @@ const Index = () => {
 
 /***/ }),
 
-/***/ 3:
-/*!*********************************************************************************************************************************************!*\
-  !*** multi next-client-pages-loader?page=%2F&absolutePagePath=%2Fhome%2Fjayveebasco%2FDocuments%2FProjects%2Fnext%2Fsrc%2Fpages%2Findex.js ***!
-  \*********************************************************************************************************************************************/
+/***/ 1:
+/*!*****************************************************************************************************************************************************************************!*\
+  !*** multi next-client-pages-loader?page=%2F&absolutePagePath=C%3A%5CUsers%5CJayvee%20Basco%5COneDrive%5CDocuments%5CProjects%5CNext%5Chello-next%5Csrc%5Cpages%5Cindex.js ***!
+  \*****************************************************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__(/*! next-client-pages-loader?page=%2F&absolutePagePath=%2Fhome%2Fjayveebasco%2FDocuments%2FProjects%2Fnext%2Fsrc%2Fpages%2Findex.js! */"./node_modules/next/dist/build/webpack/loaders/next-client-pages-loader.js?page=%2F&absolutePagePath=%2Fhome%2Fjayveebasco%2FDocuments%2FProjects%2Fnext%2Fsrc%2Fpages%2Findex.js!./");
+module.exports = __webpack_require__(/*! next-client-pages-loader?page=%2F&absolutePagePath=C%3A%5CUsers%5CJayvee%20Basco%5COneDrive%5CDocuments%5CProjects%5CNext%5Chello-next%5Csrc%5Cpages%5Cindex.js! */"./node_modules/next/dist/build/webpack/loaders/next-client-pages-loader.js?page=%2F&absolutePagePath=C%3A%5CUsers%5CJayvee%20Basco%5COneDrive%5CDocuments%5CProjects%5CNext%5Chello-next%5Csrc%5Cpages%5Cindex.js!./");
 
 
 /***/ }),
@@ -8515,5 +8515,5 @@ module.exports = dll_ef0ff7c60362f24a921f;
 
 /***/ })
 
-},[[3,"static/runtime/webpack.js"]]]);
+},[[1,"static/runtime/webpack.js"]]]);
 //# sourceMappingURL=index.js.map
