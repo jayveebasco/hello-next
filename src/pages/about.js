@@ -2,10 +2,12 @@ import Layout from '../components/Layout'
 
 const About = () => {
   return (
-    <div>
-      <div>About</div>
-    </div>
+    <Layout>
+      <div>
+        <div>About</div>
+      </div>
+    </Layout>
   )
 }
 
-export default Layout(About)
+export default About

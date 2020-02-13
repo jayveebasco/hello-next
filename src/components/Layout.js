@@ -6,11 +6,11 @@ const layoutStyle = {
   border: '1px solid #ddd'
 }
 
-const Layout = Page => {
-  return () => (
+const Layout = props => {
+  return (
     <div style={layoutStyle}>
       <Header />
-      <Page />
+      {props.children}
     </div>
   )
 }

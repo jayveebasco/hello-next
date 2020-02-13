@@ -8,7 +8,7 @@ const PostLink = props => {
       <ul>
         {post.map((postItem, index) => (
           <li key={index}>
-            <Link href={`/post?title=${postItem.title}`}>
+            <Link href="/p/[id]" as={`/p/${postItem.id}`}>
               <a title={postItem.title}>{postItem.title}</a>
             </Link>
           </li>
